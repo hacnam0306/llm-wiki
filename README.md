@@ -14,6 +14,16 @@ daily/logs/     →               →  knowledge/connections/
 - **Index-guided retrieval** — no embeddings or vector DB needed under ~500 articles
 - **Hooks = automatic capture** — session hooks snapshot long conversations before context compression
 
+## Installation
+
+```bash
+# Add this marketplace
+/plugin marketplace add github:hacnam0306/llm-wiki
+
+# Install the plugin
+/plugin install llm-wiki@llm-wiki
+```
+
 ## Usage (via Claude Code)
 
 Invoke with the `llm-wiki` skill:

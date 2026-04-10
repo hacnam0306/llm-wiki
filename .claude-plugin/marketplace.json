@@ -1,0 +1,26 @@
+{
+  "name": "llm-wiki",
+  "owner": {
+    "name": "Victor Nam Hac",
+    "url": "https://github.com/hacnam0306"
+  },
+  "metadata": {
+    "description": "Karpathy-style LLM-maintained personal knowledge base for Claude Code"
+  },
+  "plugins": [
+    {
+      "name": "llm-wiki",
+      "description": "Bootstrap or operate a Karpathy-style LLM-maintained personal knowledge base. Scaffolds folder structure, hooks, scripts, and AGENTS.md from bundled templates.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Victor Nam Hac"
+      },
+      "repository": "https://github.com/hacnam0306/llm-wiki",
+      "license": "MIT",
+      "keywords": ["knowledge-base", "wiki", "llm", "karpathy", "notes"],
+      "category": "productivity",
+      "source": "./skills/llm-wiki",
+      "strict": false
+    }
+  ]
+}
