@@ -1,0 +1,11 @@
+{
+  "name": "llm-wiki",
+  "description": "Bootstrap or operate a Karpathy-style LLM-maintained personal knowledge base",
+  "version": "1.0.0",
+  "author": {
+    "name": "Victor Nam Hac",
+    "url": "https://github.com/hacnam0306"
+  },
+  "repository": "https://github.com/hacnam0306/llm-wiki",
+  "license": "MIT"
+}
