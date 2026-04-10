@@ -1,0 +1,13 @@
+[project]
+name = "llm-personal-kb"
+version = "0.1.0"
+description = "Personal knowledge base compiled from AI conversations - inspired by Karpathy's LLM KB architecture"
+requires-python = ">=3.12"
+dependencies = [
+    "claude-agent-sdk>=0.1.29",
+    "python-dotenv>=1.0.0",
+    "tzdata>=2024.1",
+]
+
+[tool.ruff]
+line-length = 100
