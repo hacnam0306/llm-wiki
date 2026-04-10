@@ -18,7 +18,7 @@ daily/logs/     →               →  knowledge/connections/
 
 ```bash
 # Add this marketplace
-/plugin marketplace add github:hacnam0306/llm-wiki
+/plugin marketplace add hacnam0306/llm-wiki
 
 # Install the plugin
 /plugin install llm-wiki@llm-wiki
